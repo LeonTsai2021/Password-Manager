@@ -3,7 +3,6 @@
 Sometimes,when I browse websites,I always need to check my note because I always forget my password. Otherwise,it's difficult for me to come up with a new password, when I register membership. As mentioned above, I decided to create Password Manager to solve my problem.
 
 <br  />
-<br  />
 
 # <Strong>_Tools & Git page_</Strong>
 
@@ -15,23 +14,26 @@ Sometimes,when I browse websites,I always need to check my note because I always
 <strong>Git page: **https://github.com/LeonTsai2021 **</strong> 
 <br  />
 
-# <Strong>_Attention_</Strong>
 
-Because the time zone of each country is different, and the data collection time is also different, so the number of confirmed cases may be the number of yesterday. Please forgive me.
 
 <br  />
 
 # <Strong>_Features_</Strong>
 
-## <Strong>_PC screen_</Strong>
+## <Strong>_Home_</Strong>
 
 <img src = "./screenshots/1.png">
 
-## <Strong>_Pad screen_</Strong>
+## <Strong>_Search success_</Strong>
 
 <img src = "./screenshots/2.png">
 
-## <Strong>_Phone screen_</Strong>
+## <Strong>_Search fail_</Strong>
 
 <img src = "./screenshots/3.png">
+
+## <Strong>_Generate password_</Strong>
+
+<img src = "./screenshots/3.png">
+
 <br  />
