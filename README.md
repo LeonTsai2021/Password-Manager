@@ -22,18 +22,18 @@ Sometimes,when I browse websites,I always need to check my note because I always
 
 ## <Strong>_Home_</Strong>
 
-<img src = "./screenshots/1.png">
+<img src = "./screenshot/Home.png">
 
 ## <Strong>_Search success_</Strong>
 
-<img src = "./screenshots/2.png">
+<img src = "./screenshot/Search_success.png">
 
 ## <Strong>_Search fail_</Strong>
 
-<img src = "./screenshots/3.png">
+<img src = "./screenshot/Search_fail.png">
 
 ## <Strong>_Generate password_</Strong>
 
-<img src = "./screenshots/3.png">
+<img src = "./screenshot/Generate_password.png">
 
 <br  />
