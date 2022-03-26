@@ -21,18 +21,22 @@ Sometimes,when I browse websites,I always need to check my note because I always
 # <Strong>_Features_</Strong>
 
 ## <Strong>_Home_</Strong>
+You can set your default Email/username by edit main.py
 
 <img src = "./screenshot/Home.png">
 
 ## <Strong>_Search success_</Strong>
+If you've add data before, it would show you.
 
 <img src = "./screenshot/Search_success.png">
 
 ## <Strong>_Search fail_</Strong>
+If you've not add data before, it would show you.
 
 <img src = "./screenshot/Search_fail.png">
 
 ## <Strong>_Generate password_</Strong>
+You can just click "Generate Password" button, it would create a password for you.
 
 <img src = "./screenshot/Generate_password.png">
 
