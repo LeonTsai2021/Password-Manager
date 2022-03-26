@@ -1,6 +1,6 @@
 # <Strong>_Description_</Strong>
 
-When the Covid19 is severe, I have to pay attention to how many people are diagnosed today. Sometimes it is difficult to find the number of people today in the news, so I want to make this web application so that I can see it when I want to watch it.
+Sometimes,when I browse websites,I always need to check my note because I always forget my password. Otherwise,it's difficult for me to come up with a new password, when I register membership. As mentioned above, I decided to create Password Manager to solve my problem.
 
 data from : https://documenter.getpostman.com/view/10808728/SzS8rjbc
 <br  />
